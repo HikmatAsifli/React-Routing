@@ -23,6 +23,7 @@ const ROUTES = [
         path: "shop",
         element: <Shop />,
       },
+      //Bu açılan zaman useParams istifadə olunmadığı üçün error page-n yerinə keçir
       // {
       //   path: "/:id",
       //   element: <Details />
