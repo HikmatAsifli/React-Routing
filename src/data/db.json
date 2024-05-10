@@ -1,38 +1,38 @@
 {
   "products": [
     {
-      "id": "c90181c9-efa1-4c4e-9f2a-621be474ac43",
-      "name": "sacc",
-      "description": "asvsava",
-      "price": "12312",
-      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
-    },
-    {
-      "id": "08f40de0-37ae-4b25-9aae-67ee39c5f4eb",
-      "name": "sacx",
-      "description": "sacc",
+      "id": "a7ddfcfc-fce3-467c-83ec-0e70b7a19783",
+      "name": "iphone",
+      "description": "acaa",
       "price": "123",
       "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
     },
     {
-      "id": "1fb04fcd-9846-4eb6-82c9-159af39965fd",
-      "name": "3e1",
-      "description": "wdsfwc",
-      "price": "12213",
+      "id": "d0f36578-a93c-40b1-8b16-4e7c2dbec140",
+      "name": "iphone 2",
+      "description": "caaca",
+      "price": "213",
       "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
     },
     {
-      "id": "f28f82f9-8755-4fcf-9818-3636e18f9e70",
-      "name": "da",
-      "description": "wcssa",
-      "price": "12312",
+      "id": "f63ee2d8-6133-45fc-b741-e8f5d55bbbd6",
+      "name": "iphone 3",
+      "description": "vascw",
+      "price": "21312",
       "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
     },
     {
-      "id": "ecd28a63-a5c8-46cd-8bde-e91371a09e6d",
-      "name": "qdxq",
-      "description": "accx",
-      "price": "12321",
+      "id": "3321f43a-2dca-4515-a815-2c5b98ecb31e",
+      "name": "iphone 4",
+      "description": "sdvsac",
+      "price": "7567",
+      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
+    },
+    {
+      "id": "d482e1a5-b117-4380-a42c-ebdedd3590ad",
+      "name": "iphone 5",
+      "description": "agvscas",
+      "price": "564",
       "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
     }
   ],

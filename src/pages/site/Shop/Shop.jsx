@@ -16,7 +16,7 @@ function Shop() {
       <div className='row'>
         {data.map(item => (<div className='col-3' key={item.id}>
           <div className='card mb-5'>
-            <img src={item.image} className='card-img-top' alt='...' />
+            <img src={item.image} className='card-img-top' width="300px" height="300px" alt='...' />
             <div className='card-body'>
               <h5 className='card-title'>{item.name}</h5>
               <p className='card-text'>
