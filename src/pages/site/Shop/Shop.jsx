@@ -11,8 +11,8 @@ function Shop() {
     })
   }, [])
   return (
-    <div className='container'>
-      <h1 className='mt-2 mb-5'>Shop</h1>
+    <div className='container mt-5'>
+      <h1 className='mb-5'>Shop</h1>
       <div className='row'>
         {data.map(item => (<div className='col-3' key={item.id}>
           <div className='card mb-5'>
