@@ -5,6 +5,7 @@ import Error from "../pages/Error/Error";
 import Dashboard from "../pages/admin/Dashboard/Dashboard";
 import Products from "../pages/admin/Products/Products";
 import Users from "../pages/admin/Users/Users";
+import Contact from "../pages/site/Contact/Contact";
 import Details from "../pages/site/Details/Details";
 import Home from "../pages/site/Home/Home";
 import Shop from "../pages/site/Shop/Shop";
@@ -22,9 +23,13 @@ const ROUTES = [
         path: "shop",
         element: <Shop />,
       },
+      // {
+      //   path: "/:id",
+      //   element: <Details />
+      // },
       {
-        path: "/:id",
-        element: <Details />
+        path: "contact",
+        element: <Contact/>
       },
       {
         path: "*",

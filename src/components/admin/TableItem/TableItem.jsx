@@ -1,14 +1,14 @@
 import axios from 'axios'
 import React, { useContext } from 'react'
 import MainContext from '../../../context/context'
-import { Toaster,toast } from 'react-hot-toast'
+import { Toaster, toast } from 'react-hot-toast'
 
-const TableItem = ({item}) => {
-    const {data, setData} = useContext(MainContext)
-    const deleteItem =(id)=>{
-        axios.delete(`http://localhost:3000/products/${id}`).then(res=>{
-            setData(data.filter(item=>item.id !== id))
-            toast.success("item deleeted")
+const TableItem = ({ item }) => {
+    const { data, setData } = useContext(MainContext)
+    const deleteItem = (id) => {
+        axios.delete(`http://localhost:3000/products/${id}`).then(res => {
+            setData(data.filter(item => item.id !== id))
+            toast.success("item deleted")
         })
     }
     return (
@@ -18,7 +18,7 @@ const TableItem = ({item}) => {
             <td>{item.name}</td>
             <td>{item.price}$</td>
             <td>{item.description}</td>
-            <td><button className='btn btn-danger' onClick={()=>{
+            <td><button className='btn btn-danger' onClick={() => {
                 deleteItem(item.id)
             }}>Delete</button></td>
         </tr>

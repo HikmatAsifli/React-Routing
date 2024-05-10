@@ -1,5 +1,41 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "c90181c9-efa1-4c4e-9f2a-621be474ac43",
+      "name": "sacc",
+      "description": "asvsava",
+      "price": "12312",
+      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
+    },
+    {
+      "id": "08f40de0-37ae-4b25-9aae-67ee39c5f4eb",
+      "name": "sacx",
+      "description": "sacc",
+      "price": "123",
+      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
+    },
+    {
+      "id": "1fb04fcd-9846-4eb6-82c9-159af39965fd",
+      "name": "3e1",
+      "description": "wdsfwc",
+      "price": "12213",
+      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
+    },
+    {
+      "id": "f28f82f9-8755-4fcf-9818-3636e18f9e70",
+      "name": "da",
+      "description": "wcssa",
+      "price": "12312",
+      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
+    },
+    {
+      "id": "ecd28a63-a5c8-46cd-8bde-e91371a09e6d",
+      "name": "qdxq",
+      "description": "accx",
+      "price": "12321",
+      "image": "https://www.w-t.az/storage/uploads/2023/04/I0OCG3lQ7NLfJ2MJWzxFwuplkHhPUJHbxNsW1PyY.jpg"
+    }
+  ],
   "users": [
     {
       "id": "1",
